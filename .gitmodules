@@ -4,3 +4,6 @@
 [submodule "libraries/PCD8544-Nokia-5110-LCD_adafruit"]
 	path = libraries/PCD8544-Nokia-5110-LCD_adafruit
 	url = https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git
+[submodule "libraries/GPS_adafruit"]
+	path = libraries/GPS_adafruit
+	url = https://github.com/adafruit/Adafruit-GPS-Library.git
