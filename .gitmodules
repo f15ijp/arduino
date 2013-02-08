@@ -1,3 +1,6 @@
 [submodule "libraries/DHT-sensor_adafruit"]
 	path = libraries/DHT-sensor_adafruit
 	url = git://github.com/adafruit/DHT-sensor-library.git
+[submodule "libraries/PCD8544-Nokia-5110-LCD_adafruit"]
+	path = libraries/PCD8544-Nokia-5110-LCD_adafruit
+	url = https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git
