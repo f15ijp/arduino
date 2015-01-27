@@ -1,5 +1,5 @@
 /*
-Tested with HY-SRF05, HC-SR04
+Tested with HY-SRF05, HC-SR04, US-020
 The circuit:
 	* VVC connection of the sensor attached to +5V
 	* GND connection of the sensor attached to ground
